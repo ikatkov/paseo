@@ -1,0 +1,1 @@
+QA screenshots for the Mermaid copy fix (branch `fix/mermaid-copy-source`), taken in the web app (`npm run dev:app`, headless Chromium, 2x) against a dev daemon, with a Codex reply that contains a Mermaid flowchart.
